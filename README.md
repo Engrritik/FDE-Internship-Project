@@ -1,4 +1,4 @@
-#GEEKS FOR GEEKS 2.0
+## GEEKS FOR GEEKS 2.0
 
 This project is a clone built using HTML, CSS, and JavaScript, enhanced with Swiper.js for a dynamic slideshow functionality. It replicates the core features of geeks for geeks 2.0
 
